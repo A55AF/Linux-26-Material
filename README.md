@@ -1,9 +1,9 @@
 # Linux-26-Material
-# Linux '25 Content
+
 
 ## Overview 🐧
 
-Here, you will find both **beginner** and **advanced** content taught during OSC Linux '25 season.
+Here, you will find both **beginner** and **advanced** content taught during OSC Linux '26 season.
 
 ## Beginner Content 🌱
 
