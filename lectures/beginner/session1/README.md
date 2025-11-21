@@ -9,7 +9,10 @@
 - What is an operating system?
 - Intro to Linux
 - Linux Environments
-  - Primary OS, dual boot, live boot, virtual machine
+  - Primary OS
+  - Dual boot
+  - Live boot
+  - Virtual machine
 
 ## Materials 📚
 
@@ -19,4 +22,3 @@
 
 - [BeRoot: FOSS](https://github.com/Open-Source-Community/BeRoot/blob/main/FOSS)
 - [BeRoot: Introduction to Linux](https://github.com/Open-Source-Community/BeRoot/blob/main/Introduction%20to%20Linux)
--

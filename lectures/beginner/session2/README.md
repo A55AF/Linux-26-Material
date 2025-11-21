@@ -1,6 +1,6 @@
 # Session 2: Introduction to the CLI
 
-### Welcom Ghosts !
+### Welcome Ghosts !
 
 ## Agenda 🚀
 
@@ -19,11 +19,11 @@
 
 ## Task 💻
 
-Solve the hand on inside the pdf and assing it via [google form](https://forms.gle/xUnn3ZTswhfiW1qR6) before 25 Novamber 2025
+Solve the hands-on inside the pdf and assign it via [google form](https://forms.gle/xUnn3ZTswhfiW1qR6) before 25 November 2025
 
-- Follow the instructions in slides
+- *Follow the instructions in slides*
 
-## References and usefull practice 🖊️
+## References and useful practice 🖊️
 
 - [BeRoot: Linux File System](https://github.com/Open-Source-Community/BeRoot/blob/main/CLI%20&%20Linux%20File%20System)
 - [BeRoot: Viewing Files](https://github.com/Open-Source-Community/BeRoot/blob/main/Viewing%20Files)
